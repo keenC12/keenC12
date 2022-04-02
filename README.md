@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keenC12
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and uploading project codes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: thru email at keen.cabalse@gmail.com 
